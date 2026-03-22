@@ -1,0 +1,12 @@
+# Reference images & raw SVGs (not needed for the live app)
+*.jpg
+*.png
+*.svg
+*.mov
+*.pdf
+
+# Demo file (throwaway)
+arcana-demo.html
+
+# Claude config
+.claude/
